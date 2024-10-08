@@ -1,2 +1,2 @@
-google~=3.0.0
+google-generativeai
 streamlit~=1.39.0
